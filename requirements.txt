@@ -1,0 +1,5 @@
+pyTelegramBotAPI
+Pillow
+opencv-python
+numpy
+ffmpeg-python
